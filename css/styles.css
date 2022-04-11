@@ -661,9 +661,10 @@ progress {
 
 }
 .img-fluid-cel {
-  max-width: 500px;
-  height: 500px;
-  margin-bottom: 100px;
+  transform: rotate(30deg);
+  max-width: 380px;
+  height: 380px;
+  margin-bottom: -40px;
 
 }
 
